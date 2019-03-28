@@ -1,0 +1,24 @@
+@import url("https://use.typekit.net/emc6bqr.css");
+
+.text{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 18pt;
+}
+
+.display{
+    font-family: proxima-nova, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 36pt;
+}
+
+.wallpaper{
+    position: relative;
+    top: -200px;
+    display: block;
+    width: 100%;
+   
+    opacity: .55;
+}
